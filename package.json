@@ -1,0 +1,19 @@
+{
+  "name": "mini-project-2",
+  "version": "1.0.0",
+  "description": "mini project 2 (melvin and irfan)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adnexio-sec-bootcamp-oct-2023/mini-project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnexio-sec-bootcamp-oct-2023/mini-project-2/issues"
+  },
+  "homepage": "https://github.com/adnexio-sec-bootcamp-oct-2023/mini-project-2#readme"
+}
