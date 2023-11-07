@@ -8,3 +8,5 @@ Familiarize ourself with best practices using tools such as git version control 
 Collaborate and work on soft skills while delegating and managing our time and fulfilling task time completion expectations.
 
 Familiarize ourself with preparing documentation on contributions and the art of commenting on our own work.
+
+Test
