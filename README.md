@@ -9,4 +9,3 @@ Collaborate and work on soft skills while delegating and managing our time and f
 
 Familiarize ourself with preparing documentation on contributions and the art of commenting on our own work.
 
-Test
