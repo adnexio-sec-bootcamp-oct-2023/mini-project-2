@@ -9,3 +9,10 @@ Collaborate and work on soft skills while delegating and managing our time and f
 
 Familiarize ourself with preparing documentation on contributions and the art of commenting on our own work.
 
+
+
+User guide:
+run the program in the terminal > node app.js
+![image](https://github.com/adnexio-sec-bootcamp-oct-2023/mini-project-2/assets/53467152/7aaa594e5a93-4446-997a-0e0e024300ea)
+
+
