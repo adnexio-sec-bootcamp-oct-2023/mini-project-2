@@ -1,4 +1,3 @@
-
 [
   {
     "title": "Laundry",
@@ -16,6 +15,12 @@
     "title": "Sports",
     "description": "Playing badminton",
     "time": "3:30:58 PM",
+    "date": "11/16/2023"
+  },
+  {
+    "title": "Read",
+    "description": "A page a day",
+    "time": "11:40:37 PM",
     "date": "11/16/2023"
   }
 ]
